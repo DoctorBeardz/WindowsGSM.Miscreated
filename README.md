@@ -1,12 +1,12 @@
-# WindowsGSM.ProjectZomboid
-🧩 WindowsGSM plugin for supporting Project Zomboid Dedicated Server 
+# WindowsGSM.Miscreated
+🧩 WindowsGSM plugin for supporting Miscreated Dedicated Server 
 
 ## Requirements
 [WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) >= 1.21.0
 
 ## Installation
-1. Download the [latest](https://github.com/DoctorBeardz/WindowsGSM.ProjectZomboid/releases/latest) release
-1. Move **ProjectZomboid.cs** folder to **plugins** folder
+1. Download the [latest](https://github.com/DoctorBeardz/WindowsGSM.Miscreated/releases/latest) release
+1. Move **Miscreated.cs** folder to **plugins** folder
 1. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
 
 ## Info
@@ -35,4 +35,4 @@ All of that needs to be done by editing the servertest.ini files in the "serverf
 
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DoctorBeardz/WindowsGSM.ProjectZomboid/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DoctorBeardz/WindowsGSM.Miscreated/blob/main/LICENSE) file for details
